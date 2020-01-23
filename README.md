@@ -10,7 +10,7 @@ If you want to see the project, go to [arturdembny.pl](http://arturdembny.pl "ar
 
 * [Wordpress](https://wordpress.com "Wordpress") - Content management system
 * PHP - to customize Wordpress feature
-* HTML, CSS - shop design
+* HTML, CSS - page design
 
 ## Authors 
 
